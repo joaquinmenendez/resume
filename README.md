@@ -22,9 +22,9 @@ International exchange student
 <h3>AI Cloud Engineer</h3>
 <b>Google, Buenos Aires, Argentina</b> | <i>Aug 2023 - Present</i><br>
 
-- Design and implement custom AI solutions for Google Cloud customers using large language models, addressing specific business needs and challenges. 
-- Collaborate with customers, partners, and Google product teams to bring AI projects from ideation to deployment, ensuring successful integration and production readiness. 
-- Develop and deliver educational materials like workshops, tutorials, and presentations, empowering customers to effectively utilize AI technology and maximize its impact. 
+- Designed collaborative multi-agent architectures using the Agent Development Kit (ADK) to solve intricate business challenges, leveraging grounding services to ensure accuracy and reduce hallucinations.
+- Design, develop, and deploy AI and Machine Learning solutions on Google Cloud, with a specific focus on Large Language Models (LLMs) and Generative AI.
+- Consult with clients to understand their business needs and identify opportunities to leverage LLMs and generative AI for innovation and efficiency.
 - Provide expert technical guidance and mentorship to customers on practical aspects of machine learning systems, including data preparation, model monitoring, and feature management.
 
 
