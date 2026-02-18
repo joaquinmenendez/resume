@@ -94,8 +94,10 @@ Worked at the Data & Marketing Science Studio. Some of my tasks included:
 
 <h3>Google Cloud Certifications</h3>
 
-- [Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
-- [Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
+- Professional Cloud Architect 
+- Professional Machine Learning Engineer
+- Google Associate Cloud Engineer
+- Generative AI Leader Certification
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 
 
